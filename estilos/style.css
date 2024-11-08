@@ -3,6 +3,16 @@
     font-size: 16px;
 }
 
+img.lado {
+    float: right;
+}
+ 
+img.meio {
+    display: block;
+    margin-left: auto; 
+    margin-right: auto;
+}
+
 body {
      background-color: rgb(198, 149, 243);
 
